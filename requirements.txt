@@ -1,4 +1,4 @@
-aiogram==3.1.1
+aiogram
 python-dotenv
 google-generativeai
 aiosqlite
